@@ -22,11 +22,6 @@ Uma classe criada para proteção de dados sensíveis, que podem incluir tokens,
 
 Repositório: [Protection-token](https://github.com/marcos-rts/Protection-token)
 
-## Curso Rocketseat Java
-
-O curso é uma oportunidade excepcional para aprender os fundamentos do desenvolvimento de aplicativos Java de forma prática e abrangente, aproveitando o poderoso framework Spring.
-
-Repositório: [Rocketseat_java](https://github.com/marcos-rts/Rocketseat_java)
 
 ## Contribuição
 
