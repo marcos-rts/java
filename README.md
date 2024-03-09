@@ -26,7 +26,7 @@ Repositório: [Protection-token](https://github.com/marcos-rts/Protection-token)
 
 Este programa em Java solicita ao usuário que insira uma palavra e calcula a média dos valores ASCII das letras presentes na palavra. Em seguida, imprime a média arredondada para o número inteiro mais próximo, juntamente com a letra correspondente a esse valor.
 
-Repositório: [Code-Generator]([https://github.com/marcos-rts/Protection-token](https://github.com/marcos-rts/Code-Generator))
+Repositório: [Code-Generator](https://github.com/marcos-rts/Code-Generator)
 
 
 ## Contribuição
