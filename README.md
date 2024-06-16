@@ -28,6 +28,27 @@ Aqui estão alguns dos repositórios disponíveis:
 
   Repositório: [Code-Generator](https://github.com/marcos-rts/Code-Generator)
 
+- ## Dio Bootcamp Santander Java
+
+  O **Santander Bootcamp 2024** é um **programa online e 100% gratuito** com 4 (quatro) trilhas educacionais do básico ao avançado para pessoas que querem iniciar uma carreira em desenvolvimento de software ou que já atuam profissionalmente e estão buscando por melhores oportunidades.
+
+  - ### Desafio Conta Bancaria 
+  
+    Ponha em prática os fundamentos da linguagem e noções de regras de estrutura de sintaxe.
+
+    Repositório: [dio-desafio-conta-bancaria](https://github.com/marcos-rts/dio-desafio-conta-bancaria)
+
+  - ### Trilha Java Basico
+    
+    Repositório para exemplos do curso de Java Básico pela DIO
+
+    Repositorio: [dio-trilha-java-basico](https://github.com/marcos-rts/dio-trilha-java-basico)
+
+  - ### Debugging Java
+
+    Curso que apresenta conceitos introdutórios sobre como podemos trabalhar com debugging na linguagem Java.
+
+    Repositorio: [debugging-java-dio](https://github.com/marcos-rts/debugging-java-dio)
 
 ## Contribuição
 
